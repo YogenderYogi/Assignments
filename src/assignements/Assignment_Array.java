@@ -35,7 +35,8 @@ public class Assignment_Array {
 
 		}
 
-		System.out.println("==============================================Printing Mark Sheet==============================================");
+		System.out.println(
+				"==============================================Printing Mark Sheet==============================================");
 
 		for (int i = 0; i < semesters; i++) {
 			int a = 0;
