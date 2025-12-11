@@ -1,6 +1,6 @@
 package arrays.classes.objects;
 
-public class EmpGroups extends Emplyoees {
+public class EmpGroups extends Emplyoees{
 
 	String[] empNames = { empName1, empName2, empName3 };
 	int[] empIds = { empId1, empId2, empId3 };
