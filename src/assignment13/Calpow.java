@@ -8,12 +8,13 @@ public interface Calpow {
 		calpowers();
 	}
 
+	@SuppressWarnings("unused")
 	private void calpowers() {
 		double temp = 1;
 		
 		if(n==0)
 		{
-			System.out.println("The the value of n is : " + n);
+			System.out.println("The the value of n is : " + temp);
 		}
 		else if(n>1) {
 			for (int i = 0; i < n; i++) {
